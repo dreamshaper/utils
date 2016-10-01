@@ -1,10 +1,11 @@
 export PATH="/usr/local/sbin:$PATH"
+export CHANGELOG_GITHUB_TOKEN=<insert yours here>
 
-export CHANGELOG_GITHUB_TOKEN=7c894d3f9db2dd9c53e147fa632e9fe6a4aaa4f8
 
 alias ll='ls -lG'
 alias sf='php app/console'
 
+# sets iterm profile
 function ssh() {
   SERVER=`cut -d "@" -f 2 <<< $1`
   if [ $SERVER = "dreamshaper.com" ]
