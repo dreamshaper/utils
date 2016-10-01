@@ -1,6 +1,6 @@
 # Utils
 
-This is a repository containing utility files/scripts for the day-to-day use of a programmer at Dreamshaper.
+This is a repository containing utility files/scripts for the day-to-day use of a developer at Dreamshaper.
 
 
 ## Bash
