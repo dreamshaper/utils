@@ -7,8 +7,8 @@ This is a repository containing utility files/scripts for the day-to-day use of 
 
 - .bash_profile file containing aliases for command-line commands and tweaks
   - commands
-    - `ll`
-    - `sf`
+    - `ll`: colored ls
+    - `sf`: alias to `php app/console`
     - `nginx-<start|stop|restart|debug|log>`
     - `php-fpm-<start|stop|restart|debug>`
     - `dnsmasq-<start|stop|restart|debug>`
