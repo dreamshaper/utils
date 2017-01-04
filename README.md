@@ -1,6 +1,6 @@
 # Utils
 
-This is a repository containing utility files/scripts for the day-to-day use of a developer at Dreamshaper.
+This is a repository containing utility files/scripts/dotfiles for the day-to-day use of a developer at Dreamshaper.
 
 
 ## Bash
@@ -13,7 +13,7 @@ This is a repository containing utility files/scripts for the day-to-day use of 
     - `php-fpm-<start|stop|restart|debug>`
     - `dnsmasq-<start|stop|restart|debug>`
     - `mysql-<start|stop|restart|debug|log|err>`
-    - `mongo--<start|stop|restart|debug|log>`
+    - `mongo-<start|stop|restart|debug|log>`
     - `start-all`
     - `stop-all`
 
